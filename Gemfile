@@ -10,5 +10,5 @@ group :development do
   gem "rspec", "~> 3.6"
   gem "rdoc", "~> 4.1"
   gem "bundler", "~> 1.15"
-  gem "jeweler", "~> 2.3"
+  gem "jeweler", "~> 2.3", ">= 2.3.9"
 end
