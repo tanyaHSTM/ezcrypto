@@ -8,7 +8,7 @@ source "http://rubygems.org"
 # Include everything needed to run rake, tests, features, etc.
 group :development do
   gem "rspec", "~> 3.6"
-  gem "rdoc", "~> 4.1"
+  gem "rdoc", "~> 6.3", ">= 6.3.4.1"
   gem "bundler", "~> 1.15"
   gem "jeweler", "~> 2.3"
 end
